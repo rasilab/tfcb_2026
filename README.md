@@ -1,6 +1,6 @@
 # MCB 536: Tools for Computational Biology
 
-This document is the syllabus for this course.
+This document is the syllabus for TFCB 2026.
 
 
 - [MCB 536: Tools for Computational Biology](#mcb-536-tools-for-computational-biology)
@@ -9,7 +9,7 @@ This document is the syllabus for this course.
   - [Course description](#course-description)
   - [Resources and required materials](#resources-and-required-materials)
   - [Instructors](#instructors)
-  - [Teaching Assistants](#teaching-assistants)
+  - [Teaching Assistant](#teaching-assistant)
 
 ## Class schedule
 
